@@ -1,6 +1,6 @@
-### Chat Application with WebSocket
+# Chat Application with WebSocket
 
-# Description
+### Description
 
 This repository is a use case for WebSocket API with Spring Boot to build a simple group chat application. The users can join and leave the chat room, get notifications about new users joining, send public and private messages. The user also have unique usernames.
 It is meant as an example to learn how to build and run a WebSocket based microservice.
